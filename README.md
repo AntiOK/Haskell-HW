@@ -9,8 +9,8 @@ Java 8 | Fortran
 C# |  Ada
 JavaScript | Prolog
 Python | MQL
-Go
-Rust
-Lua
-Swift
-С
+Go |
+Rust |
+Lua |
+Swift |
+С |
