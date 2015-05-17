@@ -13,4 +13,6 @@ extra-packages: ''
 ghc-args:
 - -Wall
 - -fdefer-type-errors
-excluded-modules: []
+excluded-modules:
+- src/TypeLambdaChecker.hs
+- src/WellStove.hs
