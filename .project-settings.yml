@@ -14,5 +14,5 @@ ghc-args:
 - -Wall
 - -fdefer-type-errors
 excluded-modules:
-- src/TypeLambdaChecker.hs
+- src/LambdaInterp.hs
 - src/WellStove.hs
